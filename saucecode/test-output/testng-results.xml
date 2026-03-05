@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-10T13:32:26 IST" name="Suite" finished-at="2026-02-10T13:32:41 IST" duration-ms="14500">
+    <groups>
+    </groups>
+    <test started-at="2026-02-10T13:32:26 IST" name="SwagLabsTest" finished-at="2026-02-10T13:32:41 IST" duration-ms="14500">
+      <class name="testpkg.sdtestcls">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.sdtestcls@78691363]" started-at="2026-02-10T13:32:26 IST" name="setup" finished-at="2026-02-10T13:32:39 IST" duration-ms="13057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSwagLabsFlow()[pri:0, instance:testpkg.sdtestcls@78691363]" started-at="2026-02-10T13:32:39 IST" name="testSwagLabsFlow" finished-at="2026-02-10T13:32:41 IST" duration-ms="1409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSwagLabsFlow -->
+      </class> <!-- testpkg.sdtestcls -->
+    </test> <!-- SwagLabsTest -->
+  </suite> <!-- Suite -->
+</testng-results>

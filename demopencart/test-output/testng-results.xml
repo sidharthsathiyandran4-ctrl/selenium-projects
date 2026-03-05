@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-12T11:31:34 IST" name="Suite" finished-at="2026-02-12T11:31:56 IST" duration-ms="21243">
+    <groups>
+    </groups>
+    <test started-at="2026-02-12T11:31:34 IST" name="Test" finished-at="2026-02-12T11:31:56 IST" duration-ms="21243">
+      <class name="test.Producttest">
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.Producttest@489115ef]" started-at="2026-02-12T11:31:47 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:47 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.Producttest@489115ef]" started-at="2026-02-12T11:31:47 IST" name="startTest" finished-at="2026-02-12T11:31:47 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.Producttest.selectDateAndQuantityTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="selectDateAndQuantityTest()[pri:0, instance:test.Producttest@489115ef]" started-at="2026-02-12T11:31:47 IST" name="selectDateAndQuantityTest" finished-at="2026-02-12T11:31:48 IST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDateAndQuantityTest -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.Producttest@489115ef]" started-at="2026-02-12T11:31:48 IST" name="captureResult" finished-at="2026-02-12T11:31:48 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=selectDateAndQuantityTest status=SUCCESS method=Producttest.selectDateAndQuantityTest()[pri:0, instance:test.Producttest@489115ef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+      </class> <!-- test.Producttest -->
+      <class name="test.Registertest">
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.Registertest@6ed3ccb2]" started-at="2026-02-12T11:31:42 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method signature="verifyUserCanRegisterWithNewsletterYes()[pri:0, instance:test.Registertest@6ed3ccb2]" started-at="2026-02-12T11:31:42 IST" name="verifyUserCanRegisterWithNewsletterYes" finished-at="2026-02-12T11:31:44 IST" duration-ms="1898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanRegisterWithNewsletterYes -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.Registertest@6ed3ccb2]" started-at="2026-02-12T11:31:42 IST" name="startTest" finished-at="2026-02-12T11:31:42 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.Registertest.verifyUserCanRegisterWithNewsletterYes()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.Registertest@6ed3ccb2]" started-at="2026-02-12T11:31:44 IST" name="captureResult" finished-at="2026-02-12T11:31:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserCanRegisterWithNewsletterYes status=SUCCESS method=Registertest.verifyUserCanRegisterWithNewsletterYes()[pri:0, instance:test.Registertest@6ed3ccb2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+      </class> <!-- test.Registertest -->
+      <class name="test.hometest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:34 IST" name="setup" finished-at="2026-02-12T11:31:40 IST" duration-ms="5975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:40 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:40 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:40 IST" name="startTest" finished-at="2026-02-12T11:31:40 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.hometest.clickregisterfromyacc()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="clickregisterfromyacc()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:40 IST" name="clickregisterfromyacc" finished-at="2026-02-12T11:31:41 IST" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickregisterfromyacc -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="captureResult" finished-at="2026-02-12T11:31:41 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickregisterfromyacc status=SUCCESS method=hometest.clickregisterfromyacc()[pri:0, instance:test.hometest@3eb25e1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method signature="verifyHeaderLinksClickable()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="verifyHeaderLinksClickable" finished-at="2026-02-12T11:31:41 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeaderLinksClickable -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="startTest" finished-at="2026-02-12T11:31:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.hometest.verifyHeaderLinksClickable()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="captureResult" finished-at="2026-02-12T11:31:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyHeaderLinksClickable status=SUCCESS method=hometest.verifyHeaderLinksClickable()[pri:0, instance:test.hometest@3eb25e1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:41 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="startTest" finished-at="2026-02-12T11:31:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.hometest.verifyLogoVisible()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="verifyLogoVisible()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="verifyLogoVisible" finished-at="2026-02-12T11:31:41 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoVisible -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="captureResult" finished-at="2026-02-12T11:31:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLogoVisible status=SUCCESS method=hometest.verifyLogoVisible()[pri:0, instance:test.hometest@3eb25e1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method signature="verifyTitle()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="verifyTitle" finished-at="2026-02-12T11:31:41 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="startTest" finished-at="2026-02-12T11:31:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.hometest.verifyTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="captureResult" finished-at="2026-02-12T11:31:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=hometest.verifyTitle()[pri:0, instance:test.hometest@3eb25e1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method signature="verifyTopMenuClickable()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="verifyTopMenuClickable" finished-at="2026-02-12T11:31:42 IST" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTopMenuClickable -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:41 IST" name="startTest" finished-at="2026-02-12T11:31:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.hometest.verifyTopMenuClickable()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:42 IST" name="captureResult" finished-at="2026-02-12T11:31:42 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTopMenuClickable status=SUCCESS method=hometest.verifyTopMenuClickable()[pri:0, instance:test.hometest@3eb25e1a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.hometest@3eb25e1a]" started-at="2026-02-12T11:31:55 IST" name="tearDown" finished-at="2026-02-12T11:31:56 IST" duration-ms="896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.hometest -->
+      <class name="test.Successtest">
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.Successtest@1a677343]" started-at="2026-02-12T11:31:44 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.Successtest@1a677343]" started-at="2026-02-12T11:31:44 IST" name="startTest" finished-at="2026-02-12T11:31:44 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.Successtest.clickShowAllDesktops()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="clickShowAllDesktops()[pri:0, instance:test.Successtest@1a677343]" started-at="2026-02-12T11:31:44 IST" name="clickShowAllDesktops" finished-at="2026-02-12T11:31:45 IST" duration-ms="1105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickShowAllDesktops -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.Successtest@1a677343]" started-at="2026-02-12T11:31:45 IST" name="captureResult" finished-at="2026-02-12T11:31:45 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickShowAllDesktops status=SUCCESS method=Successtest.clickShowAllDesktops()[pri:0, instance:test.Successtest@1a677343] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+      </class> <!-- test.Successtest -->
+      <class name="test.Checkouttest">
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.Checkouttest@3857f613]" started-at="2026-02-12T11:31:48 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:48 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method signature="completeCheckoutTest()[pri:0, instance:test.Checkouttest@3857f613]" started-at="2026-02-12T11:31:48 IST" name="completeCheckoutTest" finished-at="2026-02-12T11:31:55 IST" duration-ms="6204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeCheckoutTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.Checkouttest@3857f613]" started-at="2026-02-12T11:31:48 IST" name="startTest" finished-at="2026-02-12T11:31:48 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.Checkouttest.completeCheckoutTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.Checkouttest@3857f613]" started-at="2026-02-12T11:31:55 IST" name="captureResult" finished-at="2026-02-12T11:31:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=completeCheckoutTest status=SUCCESS method=Checkouttest.completeCheckoutTest()[pri:0, instance:test.Checkouttest@3857f613] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+      </class> <!-- test.Checkouttest -->
+      <class name="test.Categorytest">
+        <test-method is-config="true" signature="initializePageObjects()[pri:0, instance:test.Categorytest@15de0b3c]" started-at="2026-02-12T11:31:45 IST" name="initializePageObjects" finished-at="2026-02-12T11:31:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePageObjects -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:test.Categorytest@15de0b3c]" started-at="2026-02-12T11:31:45 IST" name="startTest" finished-at="2026-02-12T11:31:45 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.Categorytest.sortHighToLowAndAddAllItemsToWishlist()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="sortHighToLowAndAddAllItemsToWishlist()[pri:0, instance:test.Categorytest@15de0b3c]" started-at="2026-02-12T11:31:45 IST" name="sortHighToLowAndAddAllItemsToWishlist" finished-at="2026-02-12T11:31:47 IST" duration-ms="2695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortHighToLowAndAddAllItemsToWishlist -->
+        <test-method is-config="true" signature="captureResult(org.testng.ITestResult)[pri:0, instance:test.Categorytest@15de0b3c]" started-at="2026-02-12T11:31:47 IST" name="captureResult" finished-at="2026-02-12T11:31:47 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sortHighToLowAndAddAllItemsToWishlist status=SUCCESS method=Categorytest.sortHighToLowAndAddAllItemsToWishlist()[pri:0, instance:test.Categorytest@15de0b3c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureResult -->
+      </class> <!-- test.Categorytest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
